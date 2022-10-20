@@ -1,43 +1,40 @@
 ---
 # Display name
-title: Alice Bighetti 吳恩達
+title: Chunhong Xiao 肖春红
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
+first_name: Chunhong
+last_name: Xiao
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Master of Environmetal Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Tongji University
+    url: https://www.tongji.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include environmental monitoring (water, air), detection methods of pesticides, pollution control and contaminant removal.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - environemtal monitoring
+  - detection methods of pesticides
+  - pollution control and contaminant removal
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Master of Environmental Science
+      institution: Tongji University of Environmental Science and Engineering, Shanghai, P.R. China
+      date: 09/2020 - present
+    - course: Bachelor of Environmental Science
+      institution: Huaibei Normal University of Life Science, Huaibei, P.R. China
+      date: 09/2015 - 07/2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
