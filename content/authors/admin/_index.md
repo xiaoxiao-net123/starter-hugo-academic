@@ -71,6 +71,8 @@ highlight_name: true
 
 I am Chunhong Xiao, a master of Tongji University, majoring in Environmental Science. I plan to finish school in June 2023.My research interests include environmental monitoring (water, air), detection methods of pesticides, pollution control and contaminant removal, and big data.
 
-During my master's degree, I devote much time to my research to investigate the rapid detection methods of carbamate pesticide residues in environmental water. My study attaches more importance to practical application based on the instruments developed in our laboratory, determining the total residue of carbamate pesticides in water by color reaction.Before such a research experience, the occurrence characteristics of pollutants in air, soil, and water were main hotspots in my studies. I learned a lot from this experience and found my research interests, such as the treatment of polyethylene film, and GC-MS data processing.
+Long-term participation in environmental monitoring research;
+More than one percent of inspiration and ninety-nine percent of sweat; Practical experience + Interdisciplinary knowledge reserve + Superb learning and adaptability 
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
