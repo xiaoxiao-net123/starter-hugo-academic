@@ -1,7 +1,7 @@
 ---
 title: "A systematic review and meta-analysis of environemtal pollutants"
 authors:
-- admin
+- Chunhong Xiao
 - Robert Ford
 author_notes:
 - "Equal contribution"
