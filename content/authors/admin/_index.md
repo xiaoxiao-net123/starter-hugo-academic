@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Chunhong Xiao 肖春红
+title: Chunhong Xiao   肖春红
 
 # Full name (for SEO)
 first_name: Chunhong
@@ -18,13 +18,14 @@ organizations:
     url: https://www.tongji.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include environmental monitoring (water, air), detection methods of pesticides, pollution control and contaminant removal.
+bio: My research interests include environmental monitoring (water, air), detection methods of pesticides, pollution control and contaminant removal, and big data.
 
 # Interests to show in About widget
 interests:
   - environemtal monitoring
   - detection methods of pesticides
   - pollution control and contaminant removal
+  - big data
 
 # Education to show in About widget
 education:
@@ -74,8 +75,8 @@ email: ''
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am Chunhong Xiao, a master of Tongji University, majoring in Environmental Science. I plan to finish school in June 2023.My research interests include environmental monitoring (water, air), detection methods of pesticides, pollution control and contaminant removal, and big data.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+During my master's degree, I devote much time to my research to investigate the rapid detection methods of carbamate pesticide residues in environmental water. My study attaches more importance to practical application based on the instruments developed in our laboratory, determining the total residue of carbamate pesticides in water by color reaction.Before such a research experience, the occurrence characteristics of pollutants in air, soil, and water were main hotspots in my studies. I learned a lot from this experience and found my research interests, such as the treatment of polyethylene film, and GC-MS data processing.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
