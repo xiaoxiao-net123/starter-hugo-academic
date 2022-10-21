@@ -39,8 +39,7 @@ content:
     longitude: '-122.1697121.50085545468757'
   directions: 
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
+    - 'Everyday 8:00 to 21:00'
   appointment_url: 'https://calendly.com'
   contact_links:
     - icon: twitter
