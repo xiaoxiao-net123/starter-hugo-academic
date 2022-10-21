@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Chunhong Xiao   肖春红
+title: Chunhong Xiao 肖春红
 
 # Full name (for SEO)
 first_name: Chunhong
