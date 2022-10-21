@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: 2030528@tongji.edu.cn
-  phone: +8613371852150
+  phone: 86-021-13371852150
   address:
     street: No.1239 Siping Road
     city: Shanghai
