@@ -27,10 +27,7 @@ publication_short: ""
 abstract: Environmental pollutants are ubiquitous in our environmental media leading to adverse effects on both humans and the environment. Given the limited research costs and methodological heterogeneity, an evidence-based review, particularly a systematic review and meta-analysis, performs a crucial function in assessing the pollution status of pollutants in environmental media at national and global scales. By bibliometric analysis and network analysis, the characteristics of papers were examined and visualized in our review. A need to expand the scope of studies was observed. This review concluded the basic procedures involved in a systematic review and meta-analysis, namely literature searching, screening of articles, study quality analysis, data extraction and synthesis, and meta-analysis. A meta-analysis typically comprises subgroup analysis, publication bias, sensitivity analysis, fixed- and/or random-effects meta-analysis, measurement of heterogeneity, and meta-regression. According to the different categories of pollutants, including non-biological and biological pollutants, the application of meta-analysis for the presence of contaminants in environmental media was specifically explored. Then, the innovative application of meta-analysis was presented and concluded encompassing method evaluation, transfer and fate of pollutants, etc. Furthermore, the frequent misuses and problems in a systematic review and meta-analysis were summarized. Finally, some suggestions for future research were proposed.
 
 # Summary. An optional shortened abstract.
-summary: Research status of a systematic review and meta-analysis is investigated.
-The general and essential parts for meta-analyses are summarized.
-Meta-analyses of prevalence and mean concentration are common.
-More papers pay attention to human health, food safety, and water pollution.
+summary: Research status of a systematic review and meta-analysis is investigated. The general and essential parts for meta-analyses are summarized. Meta-analyses of prevalence and mean concentration are common. More papers pay attention to human health, food safety, and water pollution.
 
 
 tags:

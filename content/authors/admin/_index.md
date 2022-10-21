@@ -44,7 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:your-2030528@tongji.edu.cn'
+    link: "mailto:your-2030528@tongji.edu.cn"
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/chunhong_xiao
