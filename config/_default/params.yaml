@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: Rose
-  theme_night: Rose
+  theme_day: Forest
+  theme_night: Strawberry
   font: minimal
   font_size: L
 
@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
+    description: 'Personal Academic Homepage - Chunhong Xiao.'
     twitter: 'wowchemy'
   analytics:
     google_analytics: ''
@@ -49,6 +49,7 @@ footer:
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
+  show_translations: true
 
 # Localization
 
@@ -66,7 +67,7 @@ features:
   math:
     enable: false
   privacy_pack:
-    enable: false
+    enable: true
   repository:
     url: 'https://github.com/<username>/<repository>'
     content_dir: content
@@ -94,8 +95,8 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: ''
-    api_key: ''
+    provider: 'google'
+    api_key: 'AIzaSyA-HRVdjD-93uSTjXXLojviz7c3dxnjOMs'
     zoom: 15
 
 # Extensions
