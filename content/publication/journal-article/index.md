@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "A systematic review and meta-analysis of environemtal pollutants"
 authors:
 - admin
 - Robert Ford
